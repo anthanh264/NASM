@@ -1,5 +1,5 @@
 # NASM
- Netwide Assembler (NASM), an asssembler for the x86 CPU architecture. (ASM in Linux)
+ Netwide Assembler (NASM), an asssembler for the x86 CPU architecture. (ASM for Linux)
 ## Install NASM
 - Ubuntu 20.04
 - Install
@@ -11,7 +11,7 @@ sudo apt-get -y install nasm
 ```
 nasm --version
 ```
- + Result
+   + Result
    ```
    root@mail:~# nasm --version
    NASM version 2.15.05
